@@ -26,4 +26,4 @@ swap = (list, x, y) ->
   list[y] = first
   list
 
-cocktailSort([2,34,6,2,1,5,7])
+cocktailSort([2,34,6,2,1,5,7]) 
